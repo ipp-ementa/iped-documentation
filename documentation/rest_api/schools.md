@@ -35,9 +35,9 @@ Example:
 
 ### Error Responses
 
-`404` - No schools are available
+`404 Not Found` - No schools are available
 
-`500` - The server failed to resolve the request
+`500 Internal Server Error` - The server failed to resolve the request
 
 
 ## Create a new school
@@ -107,7 +107,7 @@ Example:
 
 ### Error Responses
 
-`400` - An error occurred while creating the school due to an invalid field
+`400 Bad Request` - An error occurred while creating the school due to an invalid field
 
 Example:
 
@@ -119,7 +119,7 @@ Example:
 
 ```
 
-`500` - The server failed to resolve the request
+`500 Internal Server Error` - The server failed to resolve the request
 
 
 ## Detailed school information
@@ -159,6 +159,6 @@ Example:
 
 ### Error Responses
 
-`404` - No school with the specified resource identifier was found
+`404 Not Found` - No school with the specified resource identifier was found
 
-`500` - The server failed to resolve the request
+`500 Internal Server Error` - The server failed to resolve the request
