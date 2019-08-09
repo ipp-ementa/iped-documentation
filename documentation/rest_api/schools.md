@@ -124,7 +124,7 @@ Example:
 
 ## Detailed school information
 
-Retrieves detailed information about a school using its resource identifier.
+Retrieves detailed information of a school using its resource identifier.
 
 URI: `/schools/:id`
 
