@@ -20,12 +20,12 @@ Example:
 
 [
     {
-        "id":"1",
+        "id":1,
         "acronym":"ISEP"
         "name":"Instituto Superior de Engenharia do Porto"
     },
     {
-        "id":"2",
+        "id":2,
         "acronym":"ESMAD"
         "name":"Escola Superior de Media Artes e Design"
     }
@@ -87,17 +87,20 @@ Example:
 ```
 
 {
-    "id":"1",
+    "id":1,
     "acronym":"ISEP",
     "name":"Instituto Superior de Engenharia do Porto",
     "canteens":[
         {
+            "id":1,
             "name":"Cantina do H"
         },
         {
+            "id":2,
             "name":"Bar da AE"
         },
         {
+            "id":3,
             "name":"Cantina do F"
         }
     ]
@@ -139,17 +142,20 @@ Example:
 ```
 
 {
-    "id":"1",
+    "id":1,
     "acronym":"ISEP",
     "name":"Instituto Superior de Engenharia do Porto",
     "canteens":[
         {
+            "id":1,
             "name":"Cantina do H"
         },
         {
+            "id":2,
             "name":"Bar da AE"
         },
         {
+            "id":3,
             "name":"Cantina do F"
         }
     ]

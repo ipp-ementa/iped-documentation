@@ -23,15 +23,15 @@ Example:
 
 [
     {
-        "id":"1",
+        "id":1,
         "name":"Cantina do H"
     },
     {
-        "id":"2",
+        "id":2,
         "name":"Bar da AE"
     },
     {
-        "id":"3",
+        "id":3,
         "name":"Cantina do F"
     }
 ]
@@ -78,7 +78,7 @@ Example:
 ```
 
 {
-    "id":"1",
+    "id":1,
     "name":"Cantina do H",
 }
 
@@ -118,7 +118,7 @@ Example:
 ```
 
 {
-    "id":"1",
+    "id":1,
     "name":"Cantina do H"
 }
 
