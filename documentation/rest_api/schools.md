@@ -4,7 +4,7 @@ This document presents information regarding `schools` collection functionalitie
 
 ## Available schools
 
-Retrieves available schools in an array.
+Retrieves available schools as an array.
 
 URI: `/schools`
 
