@@ -122,6 +122,8 @@ Example:
 
 ```
 
+`401 Unauthorized` - The authorization key was denied
+
 `500 Internal Server Error` - The server failed to resolve the request
 
 
