@@ -21,12 +21,12 @@ Example:
 [
     {
         "id":1,
-        "acronym":"ISEP"
+        "acronym":"ISEP",
         "name":"Instituto Superior de Engenharia do Porto"
     },
     {
         "id":2,
-        "acronym":"ESMAD"
+        "acronym":"ESMAD",
         "name":"Escola Superior de Media Artes e Design"
     }
 ]
