@@ -45,7 +45,7 @@ Example:
 
 ## Detailed dish information
 
-Retrieves detailed information of a school canteen menu dish using its resource identifier.
+Retrieves detailed information of a menu dish using its resource identifier.
 
 URI: `/dishes/:id`
 

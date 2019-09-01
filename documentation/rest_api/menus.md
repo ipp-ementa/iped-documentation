@@ -43,7 +43,7 @@ Example:
 
 ## Create a new menu
 
-Allows the creation of a new school canteen menu.
+Allows the creation of a new menu.
 
 URI: `/menus`
 
@@ -51,7 +51,7 @@ Verb: `POST`
 
 ### Required data
 
-The following fields are required in order to create a school canteen menu:
+The following fields are required in order to create a menu:
 
 - `type` The daily moment in which the menu is available (e.g. lunch/dinner)
 - `dishes` An array of the menu dishes
@@ -122,7 +122,7 @@ Example:
 
 ## Detailed menu information
 
-Retrieves detailed information of a school canteen menu using its resource identifier.
+Retrieves detailed information of a menu using its resource identifier.
 
 URI: `/menus/:id`
 
