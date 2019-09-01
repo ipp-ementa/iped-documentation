@@ -28,7 +28,7 @@ Example:
         "description":"Arroz de pato"
     },
     {
-        "id":2
+        "id":2,
         "type":"vegetarian",
         "description":"Tofu com tomate"
     }
