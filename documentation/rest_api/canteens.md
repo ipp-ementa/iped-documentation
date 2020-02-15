@@ -65,6 +65,10 @@ Example:
 
 {
     "name":"Cantina do H",
+    "location":{
+        "latitude": 41.177965,
+        "longitude": -8.608679
+    }
 }
 
 ```
@@ -121,7 +125,11 @@ Example:
 
 {
     "id":1,
-    "name":"Cantina do H"
+    "name":"Cantina do H",
+    "location":{
+        "latitude": 41.177965,
+        "longitude": -8.608679
+    }
 }
 
 ```
